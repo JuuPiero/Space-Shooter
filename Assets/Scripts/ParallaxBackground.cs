@@ -13,7 +13,12 @@ public class ParallaxBackground : MonoBehaviour
 
     void Update()
     {
-        float moveX = (_moveSpeed * Player.Instance.boost) * Time.deltaTime;
+        float moveX = _moveSpeed * Time.deltaTime;
+        if (Player.Instance != null)
+        {
+            moveX = (_moveSpeed * Player.Instance.boost) * Time.deltaTime;
+        }
+     
         transform.position += new Vector3(moveX, 0);
         if (Mathf.Abs(transform.position.x) - _backgroundImageWidth > 0){
             transform.position = new Vector3(0f, transform.position.y);

@@ -651,7 +651,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -708,10 +708,10 @@ TextureImporter:
       name: space_whales_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 858
-        width: 414
-        height: 282
+        x: 0
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -730,10 +730,10 @@ TextureImporter:
       name: space_whales_1
       rect:
         serializedVersion: 2
-        x: 422
-        y: 858
-        width: 414
-        height: 282
+        x: 420
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -752,10 +752,10 @@ TextureImporter:
       name: space_whales_2
       rect:
         serializedVersion: 2
-        x: 842
-        y: 859
-        width: 414
-        height: 281
+        x: 840
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -774,10 +774,10 @@ TextureImporter:
       name: space_whales_3
       rect:
         serializedVersion: 2
-        x: 1262
-        y: 861
-        width: 414
-        height: 279
+        x: 1260
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -796,10 +796,10 @@ TextureImporter:
       name: space_whales_4
       rect:
         serializedVersion: 2
-        x: 1682
-        y: 861
-        width: 414
-        height: 279
+        x: 1680
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -818,10 +818,10 @@ TextureImporter:
       name: space_whales_5
       rect:
         serializedVersion: 2
-        x: 2102
-        y: 862
-        width: 414
-        height: 278
+        x: 2100
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -840,10 +840,10 @@ TextureImporter:
       name: space_whales_6
       rect:
         serializedVersion: 2
-        x: 2522
-        y: 863
-        width: 414
-        height: 277
+        x: 2520
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -862,10 +862,10 @@ TextureImporter:
       name: space_whales_7
       rect:
         serializedVersion: 2
-        x: 2943
-        y: 864
-        width: 413
-        height: 276
+        x: 2940
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -884,10 +884,10 @@ TextureImporter:
       name: space_whales_8
       rect:
         serializedVersion: 2
-        x: 3363
-        y: 865
-        width: 413
-        height: 275
+        x: 3360
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -906,10 +906,10 @@ TextureImporter:
       name: space_whales_9
       rect:
         serializedVersion: 2
-        x: 3783
-        y: 866
-        width: 413
-        height: 274
+        x: 3780
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -928,10 +928,10 @@ TextureImporter:
       name: space_whales_10
       rect:
         serializedVersion: 2
-        x: 4203
-        y: 867
-        width: 413
-        height: 273
+        x: 4200
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -950,10 +950,10 @@ TextureImporter:
       name: space_whales_11
       rect:
         serializedVersion: 2
-        x: 4623
-        y: 868
-        width: 413
-        height: 272
+        x: 4620
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -972,10 +972,10 @@ TextureImporter:
       name: space_whales_12
       rect:
         serializedVersion: 2
-        x: 5044
-        y: 870
-        width: 412
-        height: 270
+        x: 5040
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -994,10 +994,10 @@ TextureImporter:
       name: space_whales_13
       rect:
         serializedVersion: 2
-        x: 5464
-        y: 871
-        width: 412
-        height: 269
+        x: 5460
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1016,10 +1016,10 @@ TextureImporter:
       name: space_whales_14
       rect:
         serializedVersion: 2
-        x: 5884
-        y: 871
-        width: 412
-        height: 269
+        x: 5880
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1038,10 +1038,10 @@ TextureImporter:
       name: space_whales_15
       rect:
         serializedVersion: 2
-        x: 6304
-        y: 873
-        width: 412
-        height: 267
+        x: 6300
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1060,10 +1060,10 @@ TextureImporter:
       name: space_whales_16
       rect:
         serializedVersion: 2
-        x: 6724
-        y: 874
-        width: 412
-        height: 266
+        x: 6720
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1082,10 +1082,10 @@ TextureImporter:
       name: space_whales_17
       rect:
         serializedVersion: 2
-        x: 7144
-        y: 875
-        width: 412
-        height: 265
+        x: 7140
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1104,10 +1104,10 @@ TextureImporter:
       name: space_whales_18
       rect:
         serializedVersion: 2
-        x: 7565
-        y: 876
-        width: 411
-        height: 264
+        x: 7560
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1126,10 +1126,10 @@ TextureImporter:
       name: space_whales_19
       rect:
         serializedVersion: 2
-        x: 7985
-        y: 877
-        width: 411
-        height: 263
+        x: 7980
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1148,10 +1148,10 @@ TextureImporter:
       name: space_whales_20
       rect:
         serializedVersion: 2
-        x: 8405
-        y: 878
-        width: 411
-        height: 262
+        x: 8400
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1170,10 +1170,10 @@ TextureImporter:
       name: space_whales_21
       rect:
         serializedVersion: 2
-        x: 8825
-        y: 879
-        width: 411
-        height: 261
+        x: 8820
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1192,10 +1192,10 @@ TextureImporter:
       name: space_whales_22
       rect:
         serializedVersion: 2
-        x: 9245
-        y: 881
-        width: 411
-        height: 259
+        x: 9240
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1214,10 +1214,10 @@ TextureImporter:
       name: space_whales_23
       rect:
         serializedVersion: 2
-        x: 9665
-        y: 882
-        width: 411
-        height: 258
+        x: 9660
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1236,10 +1236,10 @@ TextureImporter:
       name: space_whales_24
       rect:
         serializedVersion: 2
-        x: 10085
-        y: 882
-        width: 411
-        height: 258
+        x: 10080
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1258,10 +1258,10 @@ TextureImporter:
       name: space_whales_25
       rect:
         serializedVersion: 2
-        x: 10505
-        y: 883
-        width: 411
-        height: 257
+        x: 10500
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1280,10 +1280,10 @@ TextureImporter:
       name: space_whales_26
       rect:
         serializedVersion: 2
-        x: 10925
-        y: 885
-        width: 411
-        height: 255
+        x: 10920
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1302,10 +1302,10 @@ TextureImporter:
       name: space_whales_27
       rect:
         serializedVersion: 2
-        x: 11345
-        y: 886
-        width: 411
-        height: 254
+        x: 11340
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1324,10 +1324,10 @@ TextureImporter:
       name: space_whales_28
       rect:
         serializedVersion: 2
-        x: 11765
-        y: 885
-        width: 411
-        height: 255
+        x: 11760
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1346,10 +1346,10 @@ TextureImporter:
       name: space_whales_29
       rect:
         serializedVersion: 2
-        x: 12186
-        y: 882
-        width: 410
-        height: 258
+        x: 12180
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1368,10 +1368,10 @@ TextureImporter:
       name: space_whales_30
       rect:
         serializedVersion: 2
-        x: 12605
-        y: 879
-        width: 411
-        height: 261
+        x: 12600
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1390,10 +1390,10 @@ TextureImporter:
       name: space_whales_31
       rect:
         serializedVersion: 2
-        x: 13024
-        y: 876
-        width: 412
-        height: 264
+        x: 13020
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1412,10 +1412,10 @@ TextureImporter:
       name: space_whales_32
       rect:
         serializedVersion: 2
-        x: 13444
-        y: 873
-        width: 412
-        height: 267
+        x: 13440
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1434,10 +1434,10 @@ TextureImporter:
       name: space_whales_33
       rect:
         serializedVersion: 2
-        x: 13863
-        y: 869
-        width: 413
-        height: 271
+        x: 13860
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1456,10 +1456,10 @@ TextureImporter:
       name: space_whales_34
       rect:
         serializedVersion: 2
-        x: 14283
-        y: 867
-        width: 413
-        height: 273
+        x: 14280
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1478,10 +1478,10 @@ TextureImporter:
       name: space_whales_35
       rect:
         serializedVersion: 2
-        x: 14702
-        y: 864
-        width: 414
-        height: 276
+        x: 14700
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1500,10 +1500,10 @@ TextureImporter:
       name: space_whales_36
       rect:
         serializedVersion: 2
-        x: 15122
-        y: 861
-        width: 414
-        height: 279
+        x: 15120
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1522,10 +1522,10 @@ TextureImporter:
       name: space_whales_37
       rect:
         serializedVersion: 2
-        x: 15542
-        y: 858
-        width: 414
-        height: 282
+        x: 15540
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1544,10 +1544,10 @@ TextureImporter:
       name: space_whales_38
       rect:
         serializedVersion: 2
-        x: 15962
-        y: 858
-        width: 414
-        height: 282
+        x: 15960
+        y: 855
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1566,10 +1566,10 @@ TextureImporter:
       name: space_whales_39
       rect:
         serializedVersion: 2
-        x: 30
-        y: 569
-        width: 377
-        height: 217
+        x: 0
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1588,10 +1588,10 @@ TextureImporter:
       name: space_whales_40
       rect:
         serializedVersion: 2
-        x: 60
-        y: 743
-        width: 91
-        height: 48
+        x: 420
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1610,10 +1610,10 @@ TextureImporter:
       name: space_whales_41
       rect:
         serializedVersion: 2
-        x: 145
-        y: 757
-        width: 47
-        height: 68
+        x: 840
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1632,10 +1632,10 @@ TextureImporter:
       name: space_whales_42
       rect:
         serializedVersion: 2
-        x: 300
-        y: 777
-        width: 38
-        height: 77
+        x: 1260
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1654,10 +1654,10 @@ TextureImporter:
       name: space_whales_43
       rect:
         serializedVersion: 2
-        x: 330
-        y: 763
-        width: 48
-        height: 90
+        x: 1680
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1676,10 +1676,10 @@ TextureImporter:
       name: space_whales_44
       rect:
         serializedVersion: 2
-        x: 360
-        y: 743
-        width: 57
-        height: 100
+        x: 2100
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1698,10 +1698,10 @@ TextureImporter:
       name: space_whales_45
       rect:
         serializedVersion: 2
-        x: 451
-        y: 571
-        width: 386
-        height: 272
+        x: 2520
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1720,10 +1720,10 @@ TextureImporter:
       name: space_whales_46
       rect:
         serializedVersion: 2
-        x: 720
-        y: 777
-        width: 38
-        height: 77
+        x: 2940
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1742,10 +1742,10 @@ TextureImporter:
       name: space_whales_47
       rect:
         serializedVersion: 2
-        x: 750
-        y: 763
-        width: 48
-        height: 90
+        x: 3360
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1764,10 +1764,10 @@ TextureImporter:
       name: space_whales_48
       rect:
         serializedVersion: 2
-        x: 871
-        y: 572
-        width: 386
-        height: 280
+        x: 3780
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1786,10 +1786,10 @@ TextureImporter:
       name: space_whales_49
       rect:
         serializedVersion: 2
-        x: 1140
-        y: 777
-        width: 38
-        height: 76
+        x: 4200
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1808,10 +1808,10 @@ TextureImporter:
       name: space_whales_50
       rect:
         serializedVersion: 2
-        x: 1291
-        y: 573
-        width: 386
-        height: 279
+        x: 4620
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1830,10 +1830,10 @@ TextureImporter:
       name: space_whales_51
       rect:
         serializedVersion: 2
-        x: 1560
-        y: 776
-        width: 38
-        height: 77
+        x: 5040
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1852,10 +1852,10 @@ TextureImporter:
       name: space_whales_52
       rect:
         serializedVersion: 2
-        x: 1709
-        y: 574
-        width: 388
-        height: 278
+        x: 5460
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1874,10 +1874,10 @@ TextureImporter:
       name: space_whales_53
       rect:
         serializedVersion: 2
-        x: 2129
-        y: 575
-        width: 387
-        height: 276
+        x: 5880
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1896,10 +1896,10 @@ TextureImporter:
       name: space_whales_54
       rect:
         serializedVersion: 2
-        x: 2399
-        y: 775
-        width: 38
-        height: 77
+        x: 6300
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1918,10 +1918,10 @@ TextureImporter:
       name: space_whales_55
       rect:
         serializedVersion: 2
-        x: 2549
-        y: 577
-        width: 387
-        height: 274
+        x: 6720
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1940,10 +1940,10 @@ TextureImporter:
       name: space_whales_56
       rect:
         serializedVersion: 2
-        x: 2968
-        y: 578
-        width: 388
-        height: 273
+        x: 7140
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1962,10 +1962,10 @@ TextureImporter:
       name: space_whales_57
       rect:
         serializedVersion: 2
-        x: 3388
-        y: 580
-        width: 388
-        height: 271
+        x: 7560
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1984,10 +1984,10 @@ TextureImporter:
       name: space_whales_58
       rect:
         serializedVersion: 2
-        x: 3807
-        y: 580
-        width: 389
-        height: 270
+        x: 7980
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2006,10 +2006,10 @@ TextureImporter:
       name: space_whales_59
       rect:
         serializedVersion: 2
-        x: 4226
-        y: 582
-        width: 389
-        height: 268
+        x: 8400
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2028,10 +2028,10 @@ TextureImporter:
       name: space_whales_60
       rect:
         serializedVersion: 2
-        x: 4646
-        y: 582
-        width: 389
-        height: 267
+        x: 8820
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2050,10 +2050,10 @@ TextureImporter:
       name: space_whales_61
       rect:
         serializedVersion: 2
-        x: 5066
-        y: 584
-        width: 389
-        height: 265
+        x: 9240
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2072,10 +2072,10 @@ TextureImporter:
       name: space_whales_62
       rect:
         serializedVersion: 2
-        x: 5485
-        y: 585
-        width: 390
-        height: 264
+        x: 9660
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2094,10 +2094,10 @@ TextureImporter:
       name: space_whales_63
       rect:
         serializedVersion: 2
-        x: 5905
-        y: 586
-        width: 390
-        height: 262
+        x: 10080
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2116,10 +2116,10 @@ TextureImporter:
       name: space_whales_64
       rect:
         serializedVersion: 2
-        x: 6324
-        y: 587
-        width: 392
-        height: 261
+        x: 10500
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2138,10 +2138,10 @@ TextureImporter:
       name: space_whales_65
       rect:
         serializedVersion: 2
-        x: 6744
-        y: 588
-        width: 391
-        height: 259
+        x: 10920
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2160,10 +2160,10 @@ TextureImporter:
       name: space_whales_66
       rect:
         serializedVersion: 2
-        x: 7163
-        y: 590
-        width: 392
-        height: 257
+        x: 11340
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2182,10 +2182,10 @@ TextureImporter:
       name: space_whales_67
       rect:
         serializedVersion: 2
-        x: 7583
-        y: 591
-        width: 392
-        height: 256
+        x: 11760
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2204,10 +2204,10 @@ TextureImporter:
       name: space_whales_68
       rect:
         serializedVersion: 2
-        x: 8003
-        y: 591
-        width: 393
-        height: 256
+        x: 12180
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2226,10 +2226,10 @@ TextureImporter:
       name: space_whales_69
       rect:
         serializedVersion: 2
-        x: 8422
-        y: 593
-        width: 394
-        height: 254
+        x: 12600
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2248,10 +2248,10 @@ TextureImporter:
       name: space_whales_70
       rect:
         serializedVersion: 2
-        x: 8842
-        y: 594
-        width: 394
-        height: 254
+        x: 13020
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2270,10 +2270,10 @@ TextureImporter:
       name: space_whales_71
       rect:
         serializedVersion: 2
-        x: 9261
-        y: 594
-        width: 395
-        height: 254
+        x: 13440
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2292,10 +2292,10 @@ TextureImporter:
       name: space_whales_72
       rect:
         serializedVersion: 2
-        x: 9681
-        y: 594
-        width: 395
-        height: 254
+        x: 13860
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2314,10 +2314,10 @@ TextureImporter:
       name: space_whales_73
       rect:
         serializedVersion: 2
-        x: 10101
-        y: 594
-        width: 395
-        height: 255
+        x: 14280
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2336,10 +2336,10 @@ TextureImporter:
       name: space_whales_74
       rect:
         serializedVersion: 2
-        x: 10522
-        y: 594
-        width: 394
-        height: 255
+        x: 14700
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2358,10 +2358,10 @@ TextureImporter:
       name: space_whales_75
       rect:
         serializedVersion: 2
-        x: 10942
-        y: 593
-        width: 394
-        height: 256
+        x: 15120
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2380,10 +2380,10 @@ TextureImporter:
       name: space_whales_76
       rect:
         serializedVersion: 2
-        x: 11362
-        y: 592
-        width: 394
-        height: 257
+        x: 15540
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2402,10 +2402,10 @@ TextureImporter:
       name: space_whales_77
       rect:
         serializedVersion: 2
-        x: 11783
-        y: 591
-        width: 394
-        height: 259
+        x: 15960
+        y: 570
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2424,10 +2424,10 @@ TextureImporter:
       name: space_whales_78
       rect:
         serializedVersion: 2
-        x: 12203
-        y: 590
-        width: 394
-        height: 260
+        x: 0
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2446,10 +2446,10 @@ TextureImporter:
       name: space_whales_79
       rect:
         serializedVersion: 2
-        x: 12624
-        y: 589
-        width: 393
-        height: 262
+        x: 420
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2468,10 +2468,10 @@ TextureImporter:
       name: space_whales_80
       rect:
         serializedVersion: 2
-        x: 13045
-        y: 588
-        width: 392
-        height: 263
+        x: 840
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2490,10 +2490,10 @@ TextureImporter:
       name: space_whales_81
       rect:
         serializedVersion: 2
-        x: 13466
-        y: 586
-        width: 391
-        height: 265
+        x: 1260
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2512,10 +2512,10 @@ TextureImporter:
       name: space_whales_82
       rect:
         serializedVersion: 2
-        x: 13887
-        y: 584
-        width: 390
-        height: 268
+        x: 1680
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2534,10 +2534,10 @@ TextureImporter:
       name: space_whales_83
       rect:
         serializedVersion: 2
-        x: 14308
-        y: 581
-        width: 389
-        height: 271
+        x: 2100
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2556,10 +2556,10 @@ TextureImporter:
       name: space_whales_84
       rect:
         serializedVersion: 2
-        x: 14729
-        y: 577
-        width: 388
-        height: 275
+        x: 2520
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2578,10 +2578,10 @@ TextureImporter:
       name: space_whales_85
       rect:
         serializedVersion: 2
-        x: 15150
-        y: 575
-        width: 387
-        height: 268
+        x: 2940
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2600,10 +2600,10 @@ TextureImporter:
       name: space_whales_86
       rect:
         serializedVersion: 2
-        x: 15420
-        y: 776
-        width: 38
-        height: 77
+        x: 3360
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2622,10 +2622,10 @@ TextureImporter:
       name: space_whales_87
       rect:
         serializedVersion: 2
-        x: 15450
-        y: 763
-        width: 48
-        height: 89
+        x: 3780
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2644,10 +2644,10 @@ TextureImporter:
       name: space_whales_88
       rect:
         serializedVersion: 2
-        x: 15570
-        y: 571
-        width: 387
-        height: 272
+        x: 4200
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2666,10 +2666,10 @@ TextureImporter:
       name: space_whales_89
       rect:
         serializedVersion: 2
-        x: 15840
-        y: 777
-        width: 38
-        height: 76
+        x: 4620
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2688,10 +2688,10 @@ TextureImporter:
       name: space_whales_90
       rect:
         serializedVersion: 2
-        x: 15870
-        y: 763
-        width: 48
-        height: 90
+        x: 5040
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2710,10 +2710,10 @@ TextureImporter:
       name: space_whales_91
       rect:
         serializedVersion: 2
-        x: 15990
-        y: 569
-        width: 377
-        height: 217
+        x: 5460
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2732,10 +2732,10 @@ TextureImporter:
       name: space_whales_92
       rect:
         serializedVersion: 2
-        x: 16020
-        y: 743
-        width: 91
-        height: 48
+        x: 5880
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2754,10 +2754,10 @@ TextureImporter:
       name: space_whales_93
       rect:
         serializedVersion: 2
-        x: 16105
-        y: 757
-        width: 47
-        height: 68
+        x: 6300
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2776,10 +2776,10 @@ TextureImporter:
       name: space_whales_94
       rect:
         serializedVersion: 2
-        x: 16260
-        y: 777
-        width: 38
-        height: 77
+        x: 6720
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2798,10 +2798,10 @@ TextureImporter:
       name: space_whales_95
       rect:
         serializedVersion: 2
-        x: 16290
-        y: 763
-        width: 48
-        height: 90
+        x: 7140
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2820,10 +2820,10 @@ TextureImporter:
       name: space_whales_96
       rect:
         serializedVersion: 2
-        x: 16320
-        y: 743
-        width: 57
-        height: 100
+        x: 7560
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2842,10 +2842,10 @@ TextureImporter:
       name: space_whales_97
       rect:
         serializedVersion: 2
-        x: 2
-        y: 288
-        width: 414
-        height: 283
+        x: 7980
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2864,10 +2864,10 @@ TextureImporter:
       name: space_whales_98
       rect:
         serializedVersion: 2
-        x: 422
-        y: 288
-        width: 414
-        height: 283
+        x: 8400
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2886,10 +2886,10 @@ TextureImporter:
       name: space_whales_99
       rect:
         serializedVersion: 2
-        x: 842
-        y: 289
-        width: 414
-        height: 282
+        x: 8820
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2908,10 +2908,10 @@ TextureImporter:
       name: space_whales_100
       rect:
         serializedVersion: 2
-        x: 1262
-        y: 291
-        width: 414
-        height: 280
+        x: 9240
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2930,10 +2930,10 @@ TextureImporter:
       name: space_whales_101
       rect:
         serializedVersion: 2
-        x: 1682
-        y: 291
-        width: 414
-        height: 280
+        x: 9660
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2952,10 +2952,10 @@ TextureImporter:
       name: space_whales_102
       rect:
         serializedVersion: 2
-        x: 2102
-        y: 292
-        width: 414
-        height: 279
+        x: 10080
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2974,10 +2974,10 @@ TextureImporter:
       name: space_whales_103
       rect:
         serializedVersion: 2
-        x: 2522
-        y: 293
-        width: 414
-        height: 278
+        x: 10500
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2996,10 +2996,10 @@ TextureImporter:
       name: space_whales_104
       rect:
         serializedVersion: 2
-        x: 2943
-        y: 294
-        width: 413
-        height: 277
+        x: 10920
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3018,10 +3018,10 @@ TextureImporter:
       name: space_whales_105
       rect:
         serializedVersion: 2
-        x: 3363
-        y: 295
-        width: 413
-        height: 276
+        x: 11340
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3040,10 +3040,10 @@ TextureImporter:
       name: space_whales_106
       rect:
         serializedVersion: 2
-        x: 3783
-        y: 296
-        width: 413
-        height: 275
+        x: 11760
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3062,10 +3062,10 @@ TextureImporter:
       name: space_whales_107
       rect:
         serializedVersion: 2
-        x: 4203
-        y: 297
-        width: 413
-        height: 274
+        x: 12180
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3084,10 +3084,10 @@ TextureImporter:
       name: space_whales_108
       rect:
         serializedVersion: 2
-        x: 4623
-        y: 298
-        width: 413
-        height: 273
+        x: 12600
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3106,10 +3106,10 @@ TextureImporter:
       name: space_whales_109
       rect:
         serializedVersion: 2
-        x: 5044
-        y: 300
-        width: 412
-        height: 271
+        x: 13020
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3128,10 +3128,10 @@ TextureImporter:
       name: space_whales_110
       rect:
         serializedVersion: 2
-        x: 5464
-        y: 301
-        width: 412
-        height: 270
+        x: 13440
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3150,10 +3150,10 @@ TextureImporter:
       name: space_whales_111
       rect:
         serializedVersion: 2
-        x: 5884
-        y: 301
-        width: 412
-        height: 270
+        x: 13860
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3172,10 +3172,10 @@ TextureImporter:
       name: space_whales_112
       rect:
         serializedVersion: 2
-        x: 6304
-        y: 303
-        width: 412
-        height: 268
+        x: 14280
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3194,10 +3194,10 @@ TextureImporter:
       name: space_whales_113
       rect:
         serializedVersion: 2
-        x: 6724
-        y: 304
-        width: 412
-        height: 267
+        x: 14700
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3216,10 +3216,10 @@ TextureImporter:
       name: space_whales_114
       rect:
         serializedVersion: 2
-        x: 7144
-        y: 305
-        width: 412
-        height: 266
+        x: 15120
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3238,10 +3238,10 @@ TextureImporter:
       name: space_whales_115
       rect:
         serializedVersion: 2
-        x: 7565
-        y: 306
-        width: 411
-        height: 265
+        x: 15540
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3260,10 +3260,10 @@ TextureImporter:
       name: space_whales_116
       rect:
         serializedVersion: 2
-        x: 7985
-        y: 307
-        width: 411
-        height: 264
+        x: 15960
+        y: 285
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3282,10 +3282,10 @@ TextureImporter:
       name: space_whales_117
       rect:
         serializedVersion: 2
-        x: 8405
-        y: 308
-        width: 411
-        height: 263
+        x: 0
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3304,10 +3304,10 @@ TextureImporter:
       name: space_whales_118
       rect:
         serializedVersion: 2
-        x: 8825
-        y: 309
-        width: 411
-        height: 262
+        x: 420
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3326,10 +3326,10 @@ TextureImporter:
       name: space_whales_119
       rect:
         serializedVersion: 2
-        x: 9245
-        y: 311
-        width: 411
-        height: 260
+        x: 840
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3348,10 +3348,10 @@ TextureImporter:
       name: space_whales_120
       rect:
         serializedVersion: 2
-        x: 9665
-        y: 312
-        width: 411
-        height: 259
+        x: 1260
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3370,10 +3370,10 @@ TextureImporter:
       name: space_whales_121
       rect:
         serializedVersion: 2
-        x: 10085
-        y: 312
-        width: 411
-        height: 259
+        x: 1680
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3392,10 +3392,10 @@ TextureImporter:
       name: space_whales_122
       rect:
         serializedVersion: 2
-        x: 10505
-        y: 313
-        width: 411
-        height: 258
+        x: 2100
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3414,10 +3414,10 @@ TextureImporter:
       name: space_whales_123
       rect:
         serializedVersion: 2
-        x: 10925
-        y: 315
-        width: 411
-        height: 256
+        x: 2520
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3436,10 +3436,10 @@ TextureImporter:
       name: space_whales_124
       rect:
         serializedVersion: 2
-        x: 11345
-        y: 316
-        width: 411
-        height: 255
+        x: 2940
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3458,10 +3458,10 @@ TextureImporter:
       name: space_whales_125
       rect:
         serializedVersion: 2
-        x: 11765
-        y: 315
-        width: 411
-        height: 256
+        x: 3360
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3480,10 +3480,10 @@ TextureImporter:
       name: space_whales_126
       rect:
         serializedVersion: 2
-        x: 12186
-        y: 312
-        width: 410
-        height: 259
+        x: 3780
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3502,10 +3502,10 @@ TextureImporter:
       name: space_whales_127
       rect:
         serializedVersion: 2
-        x: 12605
-        y: 309
-        width: 411
-        height: 262
+        x: 4200
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3524,10 +3524,10 @@ TextureImporter:
       name: space_whales_128
       rect:
         serializedVersion: 2
-        x: 13024
-        y: 306
-        width: 412
-        height: 265
+        x: 4620
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3546,10 +3546,10 @@ TextureImporter:
       name: space_whales_129
       rect:
         serializedVersion: 2
-        x: 13444
-        y: 303
-        width: 412
-        height: 268
+        x: 5040
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3568,10 +3568,10 @@ TextureImporter:
       name: space_whales_130
       rect:
         serializedVersion: 2
-        x: 13863
-        y: 299
-        width: 413
-        height: 272
+        x: 5460
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3590,10 +3590,10 @@ TextureImporter:
       name: space_whales_131
       rect:
         serializedVersion: 2
-        x: 14283
-        y: 297
-        width: 413
-        height: 274
+        x: 5880
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3612,10 +3612,10 @@ TextureImporter:
       name: space_whales_132
       rect:
         serializedVersion: 2
-        x: 14702
-        y: 294
-        width: 414
-        height: 277
+        x: 6300
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3634,10 +3634,10 @@ TextureImporter:
       name: space_whales_133
       rect:
         serializedVersion: 2
-        x: 15122
-        y: 291
-        width: 414
-        height: 280
+        x: 6720
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3656,10 +3656,10 @@ TextureImporter:
       name: space_whales_134
       rect:
         serializedVersion: 2
-        x: 15542
-        y: 288
-        width: 414
-        height: 283
+        x: 7140
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3678,10 +3678,10 @@ TextureImporter:
       name: space_whales_135
       rect:
         serializedVersion: 2
-        x: 15962
-        y: 288
-        width: 414
-        height: 283
+        x: 7560
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3700,10 +3700,10 @@ TextureImporter:
       name: space_whales_136
       rect:
         serializedVersion: 2
-        x: 30
+        x: 7980
         y: 0
-        width: 377
-        height: 216
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3722,10 +3722,10 @@ TextureImporter:
       name: space_whales_137
       rect:
         serializedVersion: 2
-        x: 60
-        y: 173
-        width: 91
-        height: 48
+        x: 8400
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3744,10 +3744,10 @@ TextureImporter:
       name: space_whales_138
       rect:
         serializedVersion: 2
-        x: 145
-        y: 187
-        width: 47
-        height: 68
+        x: 8820
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3766,10 +3766,10 @@ TextureImporter:
       name: space_whales_139
       rect:
         serializedVersion: 2
-        x: 300
-        y: 207
-        width: 38
-        height: 77
+        x: 9240
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3788,10 +3788,10 @@ TextureImporter:
       name: space_whales_140
       rect:
         serializedVersion: 2
-        x: 330
-        y: 193
-        width: 48
-        height: 90
+        x: 9660
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3810,10 +3810,10 @@ TextureImporter:
       name: space_whales_141
       rect:
         serializedVersion: 2
-        x: 360
-        y: 173
-        width: 57
-        height: 100
+        x: 10080
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3832,10 +3832,10 @@ TextureImporter:
       name: space_whales_142
       rect:
         serializedVersion: 2
-        x: 451
-        y: 1
-        width: 386
-        height: 272
+        x: 10500
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3854,10 +3854,10 @@ TextureImporter:
       name: space_whales_143
       rect:
         serializedVersion: 2
-        x: 720
-        y: 207
-        width: 38
-        height: 77
+        x: 10920
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3876,10 +3876,10 @@ TextureImporter:
       name: space_whales_144
       rect:
         serializedVersion: 2
-        x: 750
-        y: 193
-        width: 48
-        height: 90
+        x: 11340
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3898,10 +3898,10 @@ TextureImporter:
       name: space_whales_145
       rect:
         serializedVersion: 2
-        x: 871
-        y: 2
-        width: 386
-        height: 280
+        x: 11760
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3920,10 +3920,10 @@ TextureImporter:
       name: space_whales_146
       rect:
         serializedVersion: 2
-        x: 1140
-        y: 207
-        width: 38
-        height: 76
+        x: 12180
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3942,10 +3942,10 @@ TextureImporter:
       name: space_whales_147
       rect:
         serializedVersion: 2
-        x: 1291
-        y: 3
-        width: 386
-        height: 279
+        x: 12600
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3964,10 +3964,10 @@ TextureImporter:
       name: space_whales_148
       rect:
         serializedVersion: 2
-        x: 1560
-        y: 206
-        width: 38
-        height: 77
+        x: 13020
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3986,10 +3986,10 @@ TextureImporter:
       name: space_whales_149
       rect:
         serializedVersion: 2
-        x: 1709
-        y: 4
-        width: 388
-        height: 278
+        x: 13440
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4008,10 +4008,10 @@ TextureImporter:
       name: space_whales_150
       rect:
         serializedVersion: 2
-        x: 2129
-        y: 6
-        width: 387
-        height: 275
+        x: 13860
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4030,10 +4030,10 @@ TextureImporter:
       name: space_whales_151
       rect:
         serializedVersion: 2
-        x: 2399
-        y: 205
-        width: 38
-        height: 77
+        x: 14280
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4052,10 +4052,10 @@ TextureImporter:
       name: space_whales_152
       rect:
         serializedVersion: 2
-        x: 2549
-        y: 7
-        width: 387
-        height: 274
+        x: 14700
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4074,10 +4074,10 @@ TextureImporter:
       name: space_whales_153
       rect:
         serializedVersion: 2
-        x: 2968
-        y: 8
-        width: 388
-        height: 273
+        x: 15120
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4096,10 +4096,10 @@ TextureImporter:
       name: space_whales_154
       rect:
         serializedVersion: 2
-        x: 3388
-        y: 10
-        width: 388
-        height: 271
+        x: 15540
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4118,10 +4118,10 @@ TextureImporter:
       name: space_whales_155
       rect:
         serializedVersion: 2
-        x: 3807
-        y: 10
-        width: 389
-        height: 270
+        x: 15960
+        y: 0
+        width: 420
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4136,847 +4136,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: space_whales_156
-      rect:
-        serializedVersion: 2
-        x: 4226
-        y: 12
-        width: 389
-        height: 268
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 151d18769d1926c20800000000000000
-      internalID: 3198279048316965201
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_157
-      rect:
-        serializedVersion: 2
-        x: 4646
-        y: 12
-        width: 389
-        height: 267
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0e399d67a3c254880800000000000000
-      internalID: -8627440881544621088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_158
-      rect:
-        serializedVersion: 2
-        x: 5066
-        y: 14
-        width: 389
-        height: 265
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 313a02319d7c4a5b0800000000000000
-      internalID: -5357937921521310957
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_159
-      rect:
-        serializedVersion: 2
-        x: 5485
-        y: 15
-        width: 390
-        height: 264
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de0e5b8a9e3999bc0800000000000000
-      internalID: -3775824180806295315
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_160
-      rect:
-        serializedVersion: 2
-        x: 5905
-        y: 16
-        width: 390
-        height: 262
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0edb8898ff329ea70800000000000000
-      internalID: 8856649722631863776
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_161
-      rect:
-        serializedVersion: 2
-        x: 6324
-        y: 17
-        width: 392
-        height: 261
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ba9e9545eae8dfd30800000000000000
-      internalID: 4466883284812032427
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_162
-      rect:
-        serializedVersion: 2
-        x: 6744
-        y: 18
-        width: 391
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d937f8dca72c22ae0800000000000000
-      internalID: -1575483086935723107
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_163
-      rect:
-        serializedVersion: 2
-        x: 7163
-        y: 20
-        width: 392
-        height: 257
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fa5e74112235e6bc0800000000000000
-      internalID: -3787998830788090449
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_164
-      rect:
-        serializedVersion: 2
-        x: 7583
-        y: 21
-        width: 392
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d35d0c3a70a606030800000000000000
-      internalID: 3485902692629402941
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_165
-      rect:
-        serializedVersion: 2
-        x: 8003
-        y: 21
-        width: 393
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4cfa876126181ade0800000000000000
-      internalID: -1323634557186428988
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_166
-      rect:
-        serializedVersion: 2
-        x: 8422
-        y: 23
-        width: 394
-        height: 254
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7e4df5513bd6fde50800000000000000
-      internalID: 6836303375296877799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_167
-      rect:
-        serializedVersion: 2
-        x: 8842
-        y: 24
-        width: 394
-        height: 254
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ccf7335b9dd54bc70800000000000000
-      internalID: 8985910346140319692
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_168
-      rect:
-        serializedVersion: 2
-        x: 9261
-        y: 24
-        width: 395
-        height: 254
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d9ad5bf0d8189d20800000000000000
-      internalID: 3285403214016260568
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_169
-      rect:
-        serializedVersion: 2
-        x: 9681
-        y: 24
-        width: 395
-        height: 254
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f83832aa26f7485e0800000000000000
-      internalID: -1908260280360270961
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_170
-      rect:
-        serializedVersion: 2
-        x: 10101
-        y: 24
-        width: 395
-        height: 255
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 314dd59bc6e1f8e00800000000000000
-      internalID: 1049090690515850259
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_171
-      rect:
-        serializedVersion: 2
-        x: 10522
-        y: 24
-        width: 394
-        height: 255
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7b87df66021e72850800000000000000
-      internalID: 6352293328712464567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_172
-      rect:
-        serializedVersion: 2
-        x: 10942
-        y: 23
-        width: 394
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 19d7f1b82c0e1c450800000000000000
-      internalID: 6107409695853477265
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_173
-      rect:
-        serializedVersion: 2
-        x: 11362
-        y: 22
-        width: 394
-        height: 257
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b1efeb9f64d797a60800000000000000
-      internalID: 7672301183993576987
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_174
-      rect:
-        serializedVersion: 2
-        x: 11783
-        y: 21
-        width: 394
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cefcb959fabaf1be0800000000000000
-      internalID: -1504294979900813332
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_175
-      rect:
-        serializedVersion: 2
-        x: 12203
-        y: 20
-        width: 394
-        height: 260
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c54d0e11f640bbd10800000000000000
-      internalID: 2142310922832630876
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_176
-      rect:
-        serializedVersion: 2
-        x: 12624
-        y: 19
-        width: 393
-        height: 262
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d85709dd6274051c0800000000000000
-      internalID: -4517032194001046131
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_177
-      rect:
-        serializedVersion: 2
-        x: 13045
-        y: 18
-        width: 392
-        height: 263
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d8cdb7b5e44aec40800000000000000
-      internalID: 5542318044853684437
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_178
-      rect:
-        serializedVersion: 2
-        x: 13466
-        y: 16
-        width: 391
-        height: 265
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 28b746d9e8b594a70800000000000000
-      internalID: 8811674814011177858
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_179
-      rect:
-        serializedVersion: 2
-        x: 13887
-        y: 14
-        width: 390
-        height: 268
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a9f15f0ed065796e0800000000000000
-      internalID: -1830900105894092902
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_180
-      rect:
-        serializedVersion: 2
-        x: 14308
-        y: 11
-        width: 389
-        height: 271
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8ff721e124f3bb800800000000000000
-      internalID: 629166126153236472
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_181
-      rect:
-        serializedVersion: 2
-        x: 14729
-        y: 7
-        width: 388
-        height: 275
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b4e158598d6a84320800000000000000
-      internalID: 2542465438802320971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_182
-      rect:
-        serializedVersion: 2
-        x: 15150
-        y: 5
-        width: 387
-        height: 268
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9bcde4ece40594f10800000000000000
-      internalID: 2254421387874589881
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_183
-      rect:
-        serializedVersion: 2
-        x: 15420
-        y: 206
-        width: 38
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 403e2166eea782220800000000000000
-      internalID: 2461352360691294980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_184
-      rect:
-        serializedVersion: 2
-        x: 15450
-        y: 193
-        width: 48
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 84612d6a9c3015bd0800000000000000
-      internalID: -2643327341667674552
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_185
-      rect:
-        serializedVersion: 2
-        x: 15571
-        y: 1
-        width: 386
-        height: 272
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55cd44f568ccfc130800000000000000
-      internalID: 3589312305533606997
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_186
-      rect:
-        serializedVersion: 2
-        x: 15840
-        y: 207
-        width: 38
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3f1e6f6f41e514960800000000000000
-      internalID: 7584446691604357619
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_187
-      rect:
-        serializedVersion: 2
-        x: 15870
-        y: 193
-        width: 48
-        height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08ad59125860f23e0800000000000000
-      internalID: -2076433734330623360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_188
-      rect:
-        serializedVersion: 2
-        x: 15990
-        y: 0
-        width: 377
-        height: 216
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1ad107ad9956fd360800000000000000
-      internalID: 7196582441030524321
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_189
-      rect:
-        serializedVersion: 2
-        x: 16020
-        y: 173
-        width: 91
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 625c6f0e44e528ba0800000000000000
-      internalID: -6088200096326433498
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_190
-      rect:
-        serializedVersion: 2
-        x: 16105
-        y: 187
-        width: 47
-        height: 68
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e23c37c8f5778fa40800000000000000
-      internalID: 5402199005292905262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_191
-      rect:
-        serializedVersion: 2
-        x: 16260
-        y: 207
-        width: 38
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4596a8d7b6f464990800000000000000
-      internalID: -7402141614450513580
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_192
-      rect:
-        serializedVersion: 2
-        x: 16290
-        y: 193
-        width: 48
-        height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82487f70530e4f490800000000000000
-      internalID: -7713293743407266776
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space_whales_193
-      rect:
-        serializedVersion: 2
-        x: 16320
-        y: 173
-        width: 57
-        height: 100
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c8745bd2850edde80800000000000000
-      internalID: -8152113081142130804
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d3e15d3d514b99448a2f2e68c21c1090
     internalID: 0
     vertices: []
     indices: 
@@ -4985,7 +4149,163 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      space_whales_0: 4877688082283246358
+      space_whales_1: 4962719405728112048
+      space_whales_10: 1698354331835871627
+      space_whales_100: -2305831750409560328
+      space_whales_101: -3426680714718931873
+      space_whales_102: -3482030050862910907
+      space_whales_103: -2013340562457111361
+      space_whales_104: -4424913472138033949
+      space_whales_105: 8303343140814786392
+      space_whales_106: 6610446255452419833
+      space_whales_107: -5796888240582760916
+      space_whales_108: -1394434427766690352
+      space_whales_109: -2131419443284324044
+      space_whales_11: 6996644817946776472
+      space_whales_110: -4861293123771861230
+      space_whales_111: -7062493841540067692
+      space_whales_112: -288717436786974088
+      space_whales_113: 703493586531127776
+      space_whales_114: -2224184248986485054
+      space_whales_115: 7108917849883732831
+      space_whales_116: 7045622495641460027
+      space_whales_117: -6520795892259894665
+      space_whales_118: -6405133082431823043
+      space_whales_119: -5184760454329208424
+      space_whales_12: 6016517329278095742
+      space_whales_120: 7152537932500686148
+      space_whales_121: 9084431417473722666
+      space_whales_122: 3797355908477293721
+      space_whales_123: -759407555764369017
+      space_whales_124: 5772558274390238041
+      space_whales_125: -7229675902586828821
+      space_whales_126: 3637171004131874432
+      space_whales_127: 3379067818122752360
+      space_whales_128: 8332237063664641946
+      space_whales_129: -8205016026883585904
+      space_whales_13: 8399701546496968335
+      space_whales_130: -3479119878286156293
+      space_whales_131: 6165165461092921906
+      space_whales_132: 8077771624035520809
+      space_whales_133: 8776014153116447083
+      space_whales_134: -2042186508277743089
+      space_whales_135: -5580607651079184879
+      space_whales_136: -7052811065284952983
+      space_whales_137: 5775196381814416469
+      space_whales_138: -8833942709740267488
+      space_whales_139: 2421758443194948903
+      space_whales_14: 7923397087235594108
+      space_whales_140: 31162408567291349
+      space_whales_141: 7896587906357535621
+      space_whales_142: -254499990298654502
+      space_whales_143: -8095356522254986998
+      space_whales_144: -1640159673169136519
+      space_whales_145: 3846936524254788102
+      space_whales_146: 5759317511255287786
+      space_whales_147: 1718441800586478767
+      space_whales_148: -4645274206353835656
+      space_whales_149: -490915999545266405
+      space_whales_15: 1016295198734517268
+      space_whales_150: -522242416488205826
+      space_whales_151: -4449014458358740311
+      space_whales_152: 8161737919033193981
+      space_whales_153: 6213400062738451299
+      space_whales_154: -5291192649011308822
+      space_whales_155: -6438697923629134061
+      space_whales_16: -8238732516403371858
+      space_whales_17: -7310904419644883598
+      space_whales_18: -5395173927482832935
+      space_whales_19: -2841215737918726725
+      space_whales_2: 5479741760191218254
+      space_whales_20: -375213166686924343
+      space_whales_21: 5967780605479225353
+      space_whales_22: 7689776274753364107
+      space_whales_23: 2757732489536989424
+      space_whales_24: -235943454352821897
+      space_whales_25: -2465393935456826288
+      space_whales_26: 4681372378651220077
+      space_whales_27: 3549858397580676548
+      space_whales_28: -8800389717705550181
+      space_whales_29: 5547184443018987798
+      space_whales_3: 6296138695091414717
+      space_whales_30: 2691885855017865953
+      space_whales_31: -2606598368998650120
+      space_whales_32: 8921368736473164181
+      space_whales_33: 7439864414850457030
+      space_whales_34: -3016456482120385710
+      space_whales_35: 7589125266920403577
+      space_whales_36: -901201737196675590
+      space_whales_37: -6908492045305257254
+      space_whales_38: 223560157207791503
+      space_whales_39: 7739501858471062465
+      space_whales_4: 7108030536991893538
+      space_whales_40: 6559171314264081878
+      space_whales_41: 1162620265113408032
+      space_whales_42: 3925791965236644722
+      space_whales_43: 102230495659280735
+      space_whales_44: 3891113905871361868
+      space_whales_45: -1946560478698107967
+      space_whales_46: 1679241692583198139
+      space_whales_47: 7133073429769028884
+      space_whales_48: -3706207082878214375
+      space_whales_49: -5055706199086948333
+      space_whales_5: 2876097854377141100
+      space_whales_50: -6018254008765376939
+      space_whales_51: -1211854936599715755
+      space_whales_52: -124663020407966355
+      space_whales_53: 304650915946654047
+      space_whales_54: -2240344404310907543
+      space_whales_55: 7813913497796549734
+      space_whales_56: -6911231032133456508
+      space_whales_57: -8063151593872670226
+      space_whales_58: 6232175246310486978
+      space_whales_59: -5184821660838300299
+      space_whales_6: -5173850543978581330
+      space_whales_60: 8796878016238952398
+      space_whales_61: -3335045195562221412
+      space_whales_62: 8991866530709820234
+      space_whales_63: -1814687586716622567
+      space_whales_64: -3703868207241651068
+      space_whales_65: 6993638689061532562
+      space_whales_66: -3108620017772373406
+      space_whales_67: 3203419731488594402
+      space_whales_68: 7386794643035943568
+      space_whales_69: 7780974603404890134
+      space_whales_7: 7892320921832563036
+      space_whales_70: 7285621777011202538
+      space_whales_71: 5030149834027416083
+      space_whales_72: -7705009611268671595
+      space_whales_73: -6108727378060307336
+      space_whales_74: -6069418782154514816
+      space_whales_75: -9140015782711240630
+      space_whales_76: -6005265862714038937
+      space_whales_77: -3054086200018146089
+      space_whales_78: -1038315597952843110
+      space_whales_79: -6893267137371842691
+      space_whales_8: 4572806318028743247
+      space_whales_80: 4741812921162756301
+      space_whales_81: 2271235559618495360
+      space_whales_82: -7287070608559468525
+      space_whales_83: -6325496069095638208
+      space_whales_84: -6228920494600314055
+      space_whales_85: -6154233817815977405
+      space_whales_86: 2862553669061179401
+      space_whales_87: -1748406604507203218
+      space_whales_88: -9153982711490731763
+      space_whales_89: -4802520098488448770
+      space_whales_9: -4667674142675789404
+      space_whales_90: -1469646105112679347
+      space_whales_91: -3808038797747806155
+      space_whales_92: -4114167067054017040
+      space_whales_93: 2540631375799129482
+      space_whales_94: 5287539367996139721
+      space_whales_95: 3631238875294622191
+      space_whales_96: 3241307569227635915
+      space_whales_97: 7018071661226217106
+      space_whales_98: -4224891044311116402
+      space_whales_99: -2502201658138814029
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
